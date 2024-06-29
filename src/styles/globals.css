@@ -95,6 +95,34 @@ body {
     rgb(var(--background-start-rgb));
 }
 
+.out-of-hand {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  gap: 10px;
+  padding-top: 20px;
+  margin: auto;
+}
+
+input {
+  height: 30px;
+  padding: 15px;
+}
+button {
+  height: 30px;
+}
+
+.response {
+  font-style: italic;
+}
+span {
+  font-weight: 700;
+  font-style: normal;
+}
+label {
+  font-size: 12px;
+}
+
 a {
   color: inherit;
   text-decoration: none;

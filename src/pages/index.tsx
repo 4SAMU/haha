@@ -23,7 +23,7 @@ export default function Home() {
       <Head>
         <title>😂😂😂</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="A brief description of the page" />
+        <meta name="description" content="Name and Age App, @4samu" />
         <link rel="icon" href="favicon.ico" type="image/x-icon" />
       </Head>
       <div className="out-of-hand">
